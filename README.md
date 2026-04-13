@@ -1,3 +1,7 @@
+RQ fork used with Frappe v14. It's not recommended to use this fork anymore with newer Frappe versions.
+
+---
+
 RQ (_Redis Queue_) is a simple Python library for queueing jobs and processing
 them in the background with workers.  It is backed by Redis and it is designed
 to have a low barrier to entry.  It should be integrated in your web stack
